@@ -1,0 +1,1 @@
+f=open("test\\text.txt",'r')
